@@ -5,7 +5,7 @@ export function Music() {
     <div>
       siema tu wcale nie nie Chopin z podlasia i słuchaj tego gówna:
       <Link to="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        Przejdź na muzyke z podlasia
+        Przejdź na muzyke z podlasia i nie tylko
       </Link>
     </div>
   );
